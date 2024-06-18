@@ -23,6 +23,7 @@ I am Shahzaib Memon, A Computer Systems Engineer, ICT Teacher, and Web Developer
 - **Bachelor of Computer Systems Engineering**
   - Mehran University of Engineering and Technology, Jamshoro
   - 2018 - 2022
+    
 - **Intermediate**
   - Govt. Muslim Science College
   - 2016 - 2018
