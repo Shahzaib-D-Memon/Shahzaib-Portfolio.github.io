@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am Shahzaib Memon, a dedicated Frontend Developer based in Pakistan. With over 2 years of experience, I have a strong background in web design and development, consistently delivering high-quality work.
+I am Shahzaib Memon, A Computer Systems Engineer, ICT Teacher, and Web Developer with extensive knowledge and years of experience in web technologies, delivering quality work.
 
 ### Contact Information
 
