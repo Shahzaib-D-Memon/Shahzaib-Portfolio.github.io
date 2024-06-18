@@ -34,6 +34,10 @@ I am Shahzaib Memon, A Computer Systems Engineer, ICT Teacher, and Web Developer
 
 ### Professional Experience
 
+- **The City School**
+  - ICT Teacher
+  - 2024
+
 - **Fiverr**
   - Completed various projects as a Level 1 Fiverr seller
   - 2022
