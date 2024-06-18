@@ -1,6 +1,6 @@
 # Shahzaib Memon - Frontend Developer Portfolio
 
-![Shahzaib Memon]([https://shahzaib-d-memon.github.io/Shahzaib-Portfolio.github.io/assets/images/profile-pic.jpg](https://shahzaib-d-memon.github.io/Shahzaib-Portfolio.github.io/assets/img/about-img2.png))
+![Shahzaib Memon](https://shahzaib-d-memon.github.io/Shahzaib-Portfolio.github.io/assets/img/about-img2.png)
 
 ## About Me
 
