@@ -137,8 +137,15 @@ inputs.forEach((input) => {
   input.addEventListener("focus", focusFunc);
   input.addEventListener("blur", blurFunc);
 });
+/*=============== TOGGLE NAV CLOSE WHEN LINK IS CLICKED =====++++++++===*/
+document.querySelectorAll(".nav__link").forEach((link) =>
+  link.addEventListener(
+    "click",
+    () => {
+      navMenu.classList.remove("show-sidebar");
+    })
+);
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
-
 const sections = document.querySelectorAll("section[id]");
 
 window.addEventListener("scroll", navHighlighter);
